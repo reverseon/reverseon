@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Thirafi Najwan</h1>
 <h3>A third-year undergraduate student majoring in computer science.</h3>
 
-- 🌱 I’m currently learning **data engineering, cloud computing,and capital markets**
+- 🌱 I’m currently learning **data engineering, cloud computing, and capital markets**
 
 - 📫 Kindly reach me at **thirafi@naj.one**
 
